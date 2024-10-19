@@ -1,4 +1,4 @@
-# Falling Gold
+# Spike Jump
 
 ## Description
 
